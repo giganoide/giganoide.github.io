@@ -14,7 +14,7 @@ skel.init({
         },
         'normal': {
             range: '-1280',
-            href: 'css/style-normal.css'
+            href: 'css/style.css'
         },
         'mobile': {
             range: '-640',
